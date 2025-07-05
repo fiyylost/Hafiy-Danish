@@ -1,0 +1,89 @@
+CM004|Sanji|Straw Hat Pirates|MIS004|Cooking Battle|3|2025-07-18|2 days|3000
+CM010|Jinbe|Straw Hat Pirates|MIS045|Ocean Escort|3|2025-07-26|2 days|4100
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS005|Sword Duel|4|2025-07-16|1 day|7000
+CM003|Nami|Straw Hat Pirates|MIS008|Navigation|2|2025-07-19|1 day|3000
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS001|Treasure Hunt|3|2025-07-15|2 days|5000
+CM006|Chopper|Straw Hat Pirates|MIS014|Medical Rescue|2|2025-07-17|1 day|2000
+CM012|Buggy|Buggy Pirates|MIS027|Circus Setup|2|2025-07-19|1 day|2000
+CM005|Usopp|Straw Hat Pirates|MIS012|Sniper Challenge|2|2025-07-19|1 day|2500
+CM013|Law|Heart Pirates|MIS029|Heart Transfer|5|2025-07-16|2 days|9000
+CM011|Shanks|Red Hair Pirates|MIS024|Yonkou Meeting|5|2025-07-15|1 day|10000
+CM014|Kid|Kid Pirates|MIS031|Metal Battle|4|2025-07-17|2 days|7200
+CM007|Robin|Straw Hat Pirates|MIS016|Ancient Text Reading|3|2025-07-17|3 days|3300
+CM015|Killer|Kid Pirates|MIS034|Assassin Job|4|2025-07-18|2 days|6800
+CM008|Franky|Straw Hat Pirates|MIS018|Shipbuilding|2|2025-07-16|2 days|3000
+CM009|Brook|Straw Hat Pirates|MIS020|Music Distraction|1|2025-07-18|1 day|1800
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS002|Marine Battle|4|2025-07-17|3 days|8000
+CM006|Chopper|Straw Hat Pirates|MIS015|Poison Cure Mission|3|2025-07-20|2 days|2200
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS006|Marine Battle|4|2025-07-18|2 days|8000
+CM004|Sanji|Straw Hat Pirates|MIS010|Treasure Retrieval|2|2025-07-21|1 day|4000
+CM010|Jinbe|Straw Hat Pirates|MIS022|Underwater Battle|5|2025-07-21|2 days|9500
+CM011|Shanks|Red Hair Pirates|MIS025|Island Diplomacy|4|2025-07-16|2 days|7000
+CM003|Nami|Straw Hat Pirates|MIS009|Map Decoding|1|2025-07-21|1 day|2000
+CM005|Usopp|Straw Hat Pirates|MIS013|Defense Post|3|2025-07-21|2 days|2700
+CM012|Buggy|Buggy Pirates|MIS028|Escape Act|3|2025-07-20|1 day|2500
+CM007|Robin|Straw Hat Pirates|MIS017|Treasure Hunt|2|2025-07-22|1 day|2800
+CM008|Franky|Straw Hat Pirates|MIS019|Harbor Defense|3|2025-07-20|1 day|4000
+CM009|Brook|Straw Hat Pirates|MIS021|Ghost Surprise|2|2025-07-20|1 day|2000
+CM013|Law|Heart Pirates|MIS030|Marine Blockade|4|2025-07-18|2 days|7500
+CM014|Kid|Kid Pirates|MIS032|Marine Clash|5|2025-07-19|3 days|8000
+CM015|Killer|Kid Pirates|MIS035|Silent Strike|3|2025-07-21|1 day|6000
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS036|Secret Rescue|5|2025-07-23|1 day|8500
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS037|Sword Master Test|3|2025-07-24|1 day|5500
+CM003|Nami|Straw Hat Pirates|MIS038|Storm Escape|2|2025-07-24|1 day|2200
+CM004|Sanji|Straw Hat Pirates|MIS039|Food Supply Run|2|2025-07-25|1 day|2500
+CM005|Usopp|Straw Hat Pirates|MIS040|Island Sniping|3|2025-07-25|2 days|2600
+CM006|Chopper|Straw Hat Pirates|MIS041|Healing Mission|3|2025-07-25|2 days|2900
+CM007|Robin|Straw Hat Pirates|MIS042|Historical Site Hunt|4|2025-07-25|2 days|3200
+CM008|Franky|Straw Hat Pirates|MIS043|Dock Repair|2|2025-07-26|2 days|3100
+CM009|Brook|Straw Hat Pirates|MIS044|Concert Raid|2|2025-07-26|1 day|2300
+CM010|Jinbe|Straw Hat Pirates|MIS023|Marine Escort|3|2025-07-22|2 days|5000
+CM011|Shanks|Red Hair Pirates|MIS046|Diplomatic Threat|5|2025-07-26|1 day|9800
+CM012|Buggy|Buggy Pirates|MIS047|Comedy Distraction|1|2025-07-26|1 day|1900
+CM013|Law|Heart Pirates|MIS048|Heart Recovery|4|2025-07-26|2 days|6700
+CM014|Kid|Kid Pirates|MIS033|Island Defense|4|2025-07-20|2 days|7000
+CM015|Killer|Kid Pirates|MIS050|Silent Raid|4|2025-07-26|2 days|6900
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS051|Gear Training|4|2025-07-27|2 days|7200
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS054|Sword Recovery|3|2025-07-27|1 day|5200
+CM003|Nami|Straw Hat Pirates|MIS057|Treasure Weather Map|2|2025-07-27|2 days|3100
+CM004|Sanji|Straw Hat Pirates|MIS059|VIP Cooking|4|2025-07-27|2 days|3700
+CM005|Usopp|Straw Hat Pirates|MIS062|Sniper Range Test|3|2025-07-27|1 day|2500
+CM006|Chopper|Straw Hat Pirates|MIS065|Doctor Exchange|2|2025-07-27|1 day|2100
+CM007|Robin|Straw Hat Pirates|MIS068|Ancient Tomb Visit|4|2025-07-27|2 days|4000
+CM008|Franky|Straw Hat Pirates|MIS070|Cannon Upgrade|4|2025-07-27|2 days|3900
+CM009|Brook|Straw Hat Pirates|MIS072|Haunted Forest Song|2|2025-07-27|1 day|2200
+CM010|Jinbe|Straw Hat Pirates|MIS074|Deep Sea Rescue|5|2025-07-27|2 days|9400
+CM011|Shanks|Red Hair Pirates|MIS076|Peace Treaty|5|2025-07-27|1 day|9500
+CM012|Buggy|Buggy Pirates|MIS078|Clown Parade|2|2025-07-27|1 day|2000
+CM013|Law|Heart Pirates|MIS080|Surgical Save|5|2025-07-27|2 days|9200
+CM014|Kid|Kid Pirates|MIS082|Rebel Suppression|4|2025-07-27|2 days|7400
+CM015|Killer|Kid Pirates|MIS085|Whisper Raid|3|2025-07-27|1 day|6100
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS052|Demon Island Entry|5|2025-07-28|1 day|9300
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS055|Duel with Hunter|4|2025-07-28|1 day|6700
+CM003|Nami|Straw Hat Pirates|MIS058|Typhoon Prediction|3|2025-07-28|1 day|2900
+CM004|Sanji|Straw Hat Pirates|MIS060|Island Chef Duel|3|2025-07-28|1 day|3300
+CM005|Usopp|Straw Hat Pirates|MIS063|Mimicry Escape|2|2025-07-28|2 days|2700
+CM006|Chopper|Straw Hat Pirates|MIS066|Disease Research|3|2025-07-28|2 days|2300
+CM007|Robin|Straw Hat Pirates|MIS069|Script Translation|3|2025-07-28|1 day|3600
+CM008|Franky|Straw Hat Pirates|MIS071|Ship Armor Test|3|2025-07-28|1 day|3700
+CM009|Brook|Straw Hat Pirates|MIS073|Ghost Walk|2|2025-07-28|1 day|2100
+CM010|Jinbe|Straw Hat Pirates|MIS075|Sea Monster Battle|4|2025-07-28|2 days|8800
+CM011|Shanks|Red Hair Pirates|MIS077|World Government Warning|5|2025-07-28|1 day|10000
+CM012|Buggy|Buggy Pirates|MIS079|Fake Bounty Collection|3|2025-07-28|1 day|2600
+CM013|Law|Heart Pirates|MIS081|Border Healing|4|2025-07-28|2 days|8700
+CM014|Kid|Kid Pirates|MIS083|Metal Control Training|3|2025-07-28|1 day|6800
+CM015|Killer|Kid Pirates|MIS086|Silent Hunt|4|2025-07-28|2 days|6900
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS088|Last Stand|5|2025-07-30|1 day|9900
+CM002|Roronoa Zoro|Straw Hat Pirates|MIS089|Master Slash|5|2025-07-30|1 day|9800
+CM003|Nami|Straw Hat Pirates|MIS090|Storm Alert|2|2025-07-30|1 day|2600
+CM004|Sanji|Straw Hat Pirates|MIS091|Battle Cook-Off|3|2025-07-30|2 days|3600
+CM005|Usopp|Straw Hat Pirates|MIS092|Escape Engineering|3|2025-07-30|1 day|2800
+CM006|Chopper|Straw Hat Pirates|MIS093|Emergency Cure|3|2025-07-30|1 day|2700
+CM007|Robin|Straw Hat Pirates|MIS094|Cipher Break|4|2025-07-30|1 day|3900
+CM008|Franky|Straw Hat Pirates|MIS095|Bridge Build|3|2025-07-30|2 days|3500
+CM009|Brook|Straw Hat Pirates|MIS096|Echo Attack|2|2025-07-30|1 day|2400
+CM010|Jinbe|Straw Hat Pirates|MIS097|Undersea Defense|4|2025-07-30|2 days|8700
+CM011|Shanks|Red Hair Pirates|MIS098|Red Force Rally|5|2025-07-30|1 day|9900
+CM012|Buggy|Buggy Pirates|MIS099|Laugh Ambush|3|2025-07-30|1 day|2500
+CM013|Law|Heart Pirates|MIS100|Survival Surgery|5|2025-07-30|2 days|9700
+CM021|Wukong|Monkey King|MIS102|Journey To Middle East|3|2025-05-21|103 days|10000

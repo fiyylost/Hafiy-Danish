@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MissionInfo
+comment1.params=missionId\ missionType\ dangerLevel\ missionDate\ expectedDuration\ bountyReward
+comment1.target=MissionInfo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+numComments=2
